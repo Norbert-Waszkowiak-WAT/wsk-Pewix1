@@ -11,6 +11,6 @@ int main(){
     *p=20;
     cout<<x<<endl;
 
-
+    
     return 0;
 }
