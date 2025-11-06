@@ -14,7 +14,7 @@ void min_max(int*arr,int size,int*min,int*max){
         }
     }
 }
-
+    
 
 int main(){
 
@@ -29,6 +29,8 @@ int main(){
     min_max(b,5,&y,&x);
     cout<<"najmniejsza: "<<y<<endl;
     cout<<"najwieksza:"<<x<<endl;
+  
+  
     return 0;
 
 }
